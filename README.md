@@ -58,7 +58,8 @@ NetEase-MusicBox
 	
 	$ sudo python setup.py install
 
-	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" // 需挂梯子，已安装 brew 请忽略。
+	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
+	// 需挂梯子，已安装 brew 请忽略。
 
 	$ brew install mpg123
 
